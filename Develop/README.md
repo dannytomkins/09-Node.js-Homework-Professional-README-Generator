@@ -1,8 +1,8 @@
-# project
+# Good Project
 
   ## Description 
   
-  good
+  A project that is good.
   
   ## Table of Contents (Optional)
   
@@ -16,11 +16,11 @@
   
   ## Installation
   
-  install  
+  open installer  
   
   ## Usage 
   
-  use  
+  user uses  
   
   ## License
   
@@ -44,7 +44,7 @@
   
   ## Contributing
   
-  contribute  
+    
   
   ## Tests
   
